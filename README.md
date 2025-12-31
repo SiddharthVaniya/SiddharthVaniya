@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 About Me: I am a Full Stack Developer with strong AI/ML experience<br>I actively work with Hugging Face models and AI integrations<br>I build scalable web apps, APIs, automation workflows, and mobile apps<br>Passionate about AI-powered products, system design, and performance<br>Focus on real-world problem solving and production-ready solutions
+🧠 About Me <br>I am a Full Stack Developer with strong AI/ML experience<br>I actively work with Hugging Face models and AI integrations<br>I build scalable web apps, APIs, automation workflows, and mobile apps<br>Passionate about AI-powered products, system design, and performance<br>Focus on real-world problem solving and production-ready solutions
 
 
 ## 🌐 Socials:
